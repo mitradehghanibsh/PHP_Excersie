@@ -41,10 +41,6 @@ $g3 = 3;
         <td>Neky</td>
         <td><?php echo $g3; ?></td>
     </tr>
-    <tr>
-        <td>4</td>
-        <td>Maziyar</td>
-        <td><?php echo $g2; ?></td>
-    </tr>
+   
     </tr>
 </table>
